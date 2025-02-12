@@ -4,4 +4,8 @@ console.log("hello world");
 
 let a = 45;
 
+<<<<<<< HEAD
 console.log("This is bubblesort");
+=======
+console.log("quicksort...");
+>>>>>>> quicksort
