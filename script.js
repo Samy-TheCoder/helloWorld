@@ -4,8 +4,7 @@ console.log("hello world");
 
 let a = 45;
 
-<<<<<<< HEAD
-console.log("This is bubblesort");
-=======
-console.log("quicksort...");
->>>>>>> quicksort
+const sum = (a,b)=>{
+    return a+b;
+}
+console.log(sum(4,5));
